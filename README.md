@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Kaan Kırman</h1>
 <h3 align="center">I am an Electrical and Electronics Engineer who enjoys software development.</h3>
-<img align="right" alt="Coffe" width="400" src="https://media.tenor.com/muu4Ifr-7g0AAAAi/coffee-lover-hot-coffee.gif"</img>
+<img align="right" alt="Coffe" width="300" src="https://media.tenor.com/muu4Ifr-7g0AAAAi/coffee-lover-hot-coffee.gif"</img>
 
 - 🌱 I’m currently learning **JS, React**
 
